@@ -1,13 +1,13 @@
 # Hi there, I'm Andi Mardiansa 👋
 
-**Informatics Student @ Universitas Ahmad Dahlan (UAD) — Semester 3**
+**Informatics Student @ Universitas Ahmad Dahlan (UAD)**
 **Practicum Assistant for Algoritma Pemrograman (Alpro)**
 
 I'm an informatics student who loves turning logic into working code — from console programs in C++ to web apps with PHP and Laravel. As an Alpro practicum assistant, I help fellow students learn algorithms and programming, and I enjoy building small tools that make learning easier.
 
 ## 🚀 What I Do
 
-- 🎓 **Informatics, UAD** — Semester 3
+- 🎓 **Informatics, UAD**
 - 🧑‍🏫 **Practicum Assistant — Algoritma Pemrograman**
 - 💻 Interested in **algorithms, data structures, web development, and databases**
 
