@@ -25,6 +25,8 @@ I'm an informatics student who loves turning logic into working code — from co
 
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
+| [Aplikasi-PPBD](https://github.com/AndiMardiansa/Aplikasi-PPBD) | Aplikasi PPDB online SMK Negeri 3 Palu — pendaftaran, verifikasi, dashboard admin | Laravel 12 / PHP |
+| [twibbon-menarik](https://github.com/AndiMardiansa/twibbon-menarik) | Twibbon Pixel Generator "MENARIK" Season 5 — chroma key green screen di browser, export MP4/WebM | HTML / JavaScript |
 | [kasir-pegawai](https://github.com/AndiMardiansa/kasir-pegawai) | Cashier & employee management system — Alpro project | C++ |
 | [responsi-alpro](https://github.com/AndiMardiansa/responsi-alpro) | Responsi Algoritma Pemrograman | C++ |
 | [responsi-pweb](https://github.com/AndiMardiansa/responsi-pweb) | Responsi Pemrograman Web | PHP |
