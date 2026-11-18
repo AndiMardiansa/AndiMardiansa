@@ -38,7 +38,7 @@ I'm an informatics student who loves turning logic into working code — from co
 
 ## 📫 Connect with Me
 
-- 📧 2500018060@webmail.uad.ac.id
+- 📧 andimardiansa29@gmail.com
 - 💻 [github.com/AndiMardiansa](https://github.com/AndiMardiansa)
 - 📸 Instagram: [@andimardiansa](https://www.instagram.com/andimardiansa)
 - 💼 LinkedIn: [Andi Mardiansa](https://www.linkedin.com/in/andi-mardiansa-90661532b)
